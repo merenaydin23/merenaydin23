@@ -1,4 +1,4 @@
-https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+
 <h1 align="center">Hi Everyone👋, I'm Muhammed Eren Aydın</h1>
 <h3 align="center">A passionate software developer from Turkey.</h3>
 
