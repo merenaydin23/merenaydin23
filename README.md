@@ -2,7 +2,7 @@
 <h1 align="center">Hi Everyone👋, I'm Muhammed Eren Aydın</h1>
 <h3 align="center">A passionate software developer from Turkey.</h3>
 
-- 🔭 I’m currently working on **C# and python**
+- 🔭 I’m currently working on **C# and Python**
 
 - 🌱 I’m currently learning **C# and Python**
 
