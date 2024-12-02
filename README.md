@@ -1,5 +1,5 @@
-Ben Muhammed Eren Aydın, Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim. Yapay zeka ve mobil teknolojilere olan ilgim doğrultusunda, bu repo üzerinden yolculuğumda kazandığım deneyimleri, yaptığım çalışmaları, projeleri ve gelişmeleri paylaşacağım
-
+Herkese merhaba! 👋
+Ben Muhammed Eren Aydın, Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim. Yapay zeka 🤖 ve mobil teknolojilere 📱 olan ilgim doğrultusunda, bu repo üzerinden yolculuğumda kazandığım deneyimleri, yaptığım çalışmaları, projeleri ve gelişmeleri paylaşacağım
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]( erenaydinn23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammederen23) 
