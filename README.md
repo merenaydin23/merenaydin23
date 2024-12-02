@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>Evet, metniniz GitHub için oldukça uygun. Ancak daha da akıcı ve net hale getirebilmek için küçük bir düzenleme öneriyorum:<br><br>Herkese merhaba,<br>Ben Muhammed Eren Aydın, Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim. Yapay zeka ve mobil teknolojilere olan ilgim doğrultusunda, bu repo üzerinden yolculuğumda kazandığım deneyimleri, yaptığım çalışmaları, projeleri ve gelişmeleri paylaşacağım
+Ben Muhammed Eren Aydın, Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim. Yapay zeka ve mobil teknolojilere olan ilgim doğrultusunda, bu repo üzerinden yolculuğumda kazandığım deneyimleri, yaptığım çalışmaları, projeleri ve gelişmeleri paylaşacağım
 
 
 ## 🌐 Socials:
