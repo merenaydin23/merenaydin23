@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXFnNUhyaUIwY2hyWnoyT3ZGSjNMc1dpblVJd3xBQ3Jtc0ttd01PY3ZMc3NyR2wzZGJOLTNxT1B1aHRYRS0tN05hYWRVWlB0TTQwRUlpU0xBcXFyamxqS2kzZGZ0OWJvWXZwV2RoUFB2LTU5djViQXJDNWRnYk5JMng2N0Zwb3E1TzhxMWNQcnVaQktiQnhLVWVQbw&q=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&v=Xy1mu8NTjeQ
+]
 <h1 align="center">Hi 👋, I'm Muhammed Eren Aydın</h1>
 <h3 align="center">Muhammed Eren Aydın I specialize in Artificial Intelligence, Machine Learning, and Data Science. I work on data analysis, modeling, and deep learning projects, exploring the potential of AI systems. My goal is to push the boundaries of technology with data-driven solutions. 🚀</h3>
 
