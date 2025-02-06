@@ -1,4 +1,3 @@
-Dear connections, welcome!👋
 <h1 align="center">Hi 👋, I'm Muhammed Eren Aydın</h1>
 <h3 align="center">Muhammed Eren Aydın I specialize in Artificial Intelligence, Machine Learning, and Data Science. I work on data analysis, modeling, and deep learning projects, exploring the potential of AI systems. My goal is to push the boundaries of technology with data-driven solutions. 🚀</h3>
 
