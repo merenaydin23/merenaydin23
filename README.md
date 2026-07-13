@@ -1,114 +1,177 @@
-```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,100:1E3A8A&text=Muhammed%20Eren%20Aydın&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,100:1E40AF&text=Muhammed%20Eren%20Ayd%C4%B1n&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18"/>
 
-# Muhammed Eren Aydın
-
-### Software Engineer • Backend Developer • AI & Data Science Enthusiast
+<h2>Hi 👋 I'm Muhammed Eren Aydın</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammederen23">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammederenaydin7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/merenaydin23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.muhammederenaydın.com">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
+Software Engineer • Backend Developer • Mobile Developer • AI & Data Science Enthusiast
+</p>
+
+<p>
+
+<a href="https://github.com/merenaydin23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammederen23">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammederenaydin7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.muhammederenaydin.com">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
 I'm **Muhammed Eren Aydın**, a Software Engineer from Türkiye.
 
-I enjoy developing modern web applications, backend systems, and mobile applications while continuously improving my knowledge in Artificial Intelligence and Data Science.
+I enjoy building modern web applications, backend systems and mobile applications while continuously improving my knowledge in Artificial Intelligence and Data Science.
 
-I focus on writing clean, maintainable code and building practical software that solves real-world problems.
+I like developing software that solves real-world problems and writing clean, maintainable code.
 
-### Currently Interested In
+### 🚀 Current Focus
 
 - Backend Development
 - Artificial Intelligence
 - Data Science
 - Mobile Development
-- Full-Stack Web Development
+- Full Stack Web Development
 
 ---
 
 # 🛠 Tech Stack
 
+<div align="center">
+
 ### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,java,cs,js,dart" />
-</p>
+
+<br><br>
 
 ### Frameworks & Technologies
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,firebase" />
-</p>
+
+<br><br>
 
 ### Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-</p>
+<br><br>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,figma" />
-</p>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ### 📧 Intra Mail Hub
 
 Internal communication platform developed to simplify messaging and collaboration within organizations.
 
-**Tech:** React • Firebase • JavaScript
+**Tech Stack**
 
-🔗 https://github.com/merenaydin23/intra-mail-hub
+`React` `Firebase` `JavaScript`
 
----
+<br>
 
-### ⚽ Ay-Ka Halı Saha Otomasyonu
+<a href="https://github.com/merenaydin23/intra-mail-hub">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Reservation and management system for football fields with customer and booking management features.
+</td>
 
-**Tech:** Java • Firebase
+<td width="50%">
 
-🔗 https://github.com/merenaydin23/Ay_Ka-Hali_Saha_Otomasyonu
+### ⚽ Ay-Ka Halı Saha
 
----
+Reservation and management system for football fields.
+
+**Tech Stack**
+
+`Java` `Firebase`
+
+<br>
+
+<a href="https://github.com/merenaydin23/Ay_Ka-Hali_Saha_Otomasyonu">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🌐 Personal Website
 
-Responsive personal portfolio showcasing my projects, skills and experience.
+Personal portfolio built with modern web technologies.
 
-**Tech:** React • Vite • JavaScript
+**Tech Stack**
 
-🔗 https://github.com/merenaydin23/personal-website
+`React`
 
-🌍 https://www.muhammederenaydın.com
+`Vite`
+
+`JavaScript`
+
+<br>
+
+<a href="https://github.com/merenaydin23/personal-website">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Projects
+
+More software projects are available on my GitHub profile.
+
+<br><br>
+
+<a href="https://github.com/merenaydin23?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -116,11 +179,13 @@ Responsive personal portfolio showcasing my projects, skills and experience.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=merenaydin23&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=merenaydin23&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merenaydin23&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merenaydin23&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -130,22 +195,22 @@ Responsive personal portfolio showcasing my projects, skills and experience.
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=merenaydin23&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=merenaydin23&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:muhammederenaydin7@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammederen23">
@@ -156,19 +221,20 @@ Responsive personal portfolio showcasing my projects, skills and experience.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.muhammederenaydın.com">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://www.muhammederenaydin.com">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting my profile 👋
 
-*"Code. Learn. Build. Repeat."*
+*"Keep learning. Keep building."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:1E40AF"/>
 
 </div>
-```
