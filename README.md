@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:065f46&height=220&section=header&text=Muhammed%20Eren%20Aydın&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
@@ -135,4 +135,3 @@ hobbies:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:065f46&height=120&section=footer" width="100%" />
 </div>
-]]>
